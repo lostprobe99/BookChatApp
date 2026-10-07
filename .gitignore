@@ -7,3 +7,5 @@ unpackage/release/*
 config.js
 .idea
 .hbuilderx
+node_modules/
+dist/

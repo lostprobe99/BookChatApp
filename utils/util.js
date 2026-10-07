@@ -345,7 +345,7 @@ const isSignedToday = () => {
 }
 
 
-module.exports = {
+export default {
 	formatTime,
 	now,
 	toTimestamp,
