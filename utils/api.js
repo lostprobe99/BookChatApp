@@ -63,7 +63,7 @@ const getCategoryByCid = (cid) => {
 }
 
 
-module.exports = {
+export default {
   getCategories,
   getCategoryByCid,
 }
